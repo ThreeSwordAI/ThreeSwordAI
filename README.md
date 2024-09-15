@@ -30,8 +30,8 @@ Here are some of my highlighted projects:
 
 ### 🏆 Badges
 
-![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-blue?logo=kaggle&style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-Solver-orange?logo=leetcode&style=flat-square)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-blue?logo=kaggle&style=flat-square)](https://www.kaggle.com/mahfuzur)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solver-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/sevenplusone/)
 
 ### 📫 Contact Me
 

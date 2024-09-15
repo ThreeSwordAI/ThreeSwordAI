@@ -36,6 +36,6 @@ Here are some of my highlighted projects:
 ### 📫 Contact Me
 
 - **Email**: mahfuzur2202@gmail.com
-- **LinkedIn**: [linkedin.com/in/mahfuzurchowdhury](https://www.linkedin.com/in/mahfuzurchowdhury/))
+- **LinkedIn**: [linkedin.com/in/mahfuzurchowdhury](https://www.linkedin.com/in/mahfuzurchowdhury/)
 - **GitHub**: [github.com/ThreeSwordAI](https://github.com/ThreeSwordAI)
 

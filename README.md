@@ -28,27 +28,12 @@ Here are some of my highlighted projects:
 - **LeetCode**: Regular problem solver, focusing on data structures and algorithms.
 - **Champion of Datathon, Mujib Borsho IT Carnival 2020**: Recognized for leading data-driven solutions in national competitions.
 
-
-### 📈 Stats
-
-![Mahfuzur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThreeSwordAI&show_icons=true&theme=radical)
-
 ### 🏆 Badges
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-blue?logo=kaggle&style=flat-square)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solver-orange?logo=leetcode&style=flat-square)
 
 ### 📫 Contact Me
-
-- **Email**: mahfuzur2202@gmail.com
-- **LinkedIn**: [linkedin.com/in/mahfuzur-cs](https://www.linkedin.com/in/mahfuzur-cs/)
-- **Website**: [ThreeSwordAI](https://github.com/ThreeSwordAI)
-
-### 📈 GitHub Stats
-
-![Mahfuzur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThreeSwordAI&show_icons=true&theme=radical)
-
-### 📫 Let's Connect
 
 - **Email**: mahfuzur2202@gmail.com
 - **LinkedIn**: [linkedin.com/in/mahfuzurchowdhury](https://www.linkedin.com/in/mahfuzurchowdhury/))

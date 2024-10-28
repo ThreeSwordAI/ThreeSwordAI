@@ -15,7 +15,7 @@ I'm a **M.Sc. in Artificial Intelligence** student at **Friedrich-Alexander-Univ
 
 Here are some of my highlighted projects:
 
-- [**EfficientCustomTextGen**](https://github.com/ThreeSwordAI/EfficientCustomTextGen) - Domain-specific text generation platform using GPT-2 with efficient fine-tuning (LoRA) and real-time interaction via FastAPI.
+- [**ChatBot_with_GPT2**](https://github.com/ThreeSwordAI/ChatBot_with_GPT2) - Domain-specific text generation platform using GPT-2 with efficient fine-tuning (LoRA) and real-time interaction via FastAPI.
 - [**ComTM**](https://github.com/ThreeSwordAI/ComTM) - Topic Modeling Using Community Detection on a Word Association Graph. Published in [RANLP 2023](https://aclanthology.org/2023.ranlp-1.98).
 - [**Federated Learning System for Non-IID Data**](https://arxiv.org/abs/2311.10025) - A federated learning system addressing imbalanced data challenges. Preprint available on arXiv.
 - [**Crop Detection App**](https://github.com/ThreeSwordAI/Crop-Detection-App): Built a deep learning model using ResNet152 for a mobile app that classifies crops from images. The model can identify 19 different crops and was developed during my internship at ADSPL Tech.

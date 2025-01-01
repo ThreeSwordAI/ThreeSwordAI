@@ -20,7 +20,7 @@ Here are some of my highlighted projects:
 - [**Federated Learning System for Non-IID Data**](https://arxiv.org/abs/2311.10025) - A federated learning system addressing imbalanced data challenges. Preprint available on arXiv.
 - [**Crop Detection App**](https://github.com/ThreeSwordAI/Crop-Detection-App): Built a deep learning model using ResNet152 for a mobile app that classifies crops from images. The model can identify 19 different crops and was developed during my internship at ADSPL Tech.
 - [**Bengali License Plate Recognition**](https://ieeexplore.ieee.org/document/9623250)**: Presented at IEMCON 2021, Vancouver. Created a deep learning model to recognize Bengali license plates from noisy video footage.
-- **[**BRACU Virtual Voice Assistant**](https://github.com/ThreeSwordAI/BRACU_VirtualVoiceAssistant)**: A voice assistant developed using Google APIs, helping users maintain schedules and search faculty information.
+- [**BRACU Virtual Voice Assistant**](https://github.com/ThreeSwordAI/BRACU_VirtualVoiceAssistant)**: A voice assistant developed using Google APIs, helping users maintain schedules and search faculty information.
 
 ### 🏆 Achievements & Contributions
 

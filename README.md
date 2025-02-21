@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mahfuzur Rahman Chowdhury
 
-I'm a **M.Sc. in Artificial Intelligence** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, passionate about **AI**, **Machine Learning**, and **NLP**. I have extensive experience in developing deep learning models, text generation systems, and building AI-powered applications. I'm a Kaggle contributor and a regular problem solver on LeetCode.
+I'm a **M.Sc. in Artificial Intelligence** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, passionate about **Machine Learning**, **NLP**, and **Quantum Machine Learning**. I have extensive experience in developing deep learning models, text generation systems, and building AI-powered applications. I'm a Kaggle contributor and a regular problem solver on LeetCode.
 
 ### 🌟 Key Skills
 
